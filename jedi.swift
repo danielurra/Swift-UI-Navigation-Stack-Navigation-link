@@ -1,10 +1,3 @@
-//
-//  jedi.swift
-//  JournalEntries
-//
-//  Created by Eusebio Taba on 3/20/24.
-
-
 import Foundation
 
 class jedi: Identifiable { // jedi = journal entry dani individual (the blueprint)
