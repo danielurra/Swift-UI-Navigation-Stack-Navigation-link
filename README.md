@@ -1,5 +1,5 @@
 # Swift UI Navigation-Stack Navigation-link
-The use of the Navigation Stack and the Navigation link allows you to move to a different screen.<br>
+The use of the `Navigation Stack` and the `Navigation Link` allows you to move to a different screen.<br>
 ![nav](https://github.com/danielurra/Swift-UI-Navigation-Stack-Navigation-link/assets/51704179/13b2045e-43e1-40cd-9702-ca46d832f54a)<br>
 ## Grab the code - Main view file
 ```swift
