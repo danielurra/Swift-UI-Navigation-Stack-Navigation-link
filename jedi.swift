@@ -1,6 +1,6 @@
 import Foundation
 
-class jedi: Identifiable { // jedi = journal entry dani individual (the blueprint)
+class jedi: Identifiable { // JEDI = Journal Entry Dani Individual (the blueprint)
     var title: String = ""
     var depunoyletra: String = ""
     var rating: Int = 1
